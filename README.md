@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
-I am arija
+I am Marija
 I want to learn programming
